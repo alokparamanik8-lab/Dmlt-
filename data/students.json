@@ -1,0 +1,54 @@
+{
+  "bishnudev": {
+    "studentId": "bishnudev",
+    "name": "Bishnudev Paramanik",
+    "xp": 0,
+    "completedTopics": [],
+    "streak": {
+      "currentStreak": 1,
+      "bestStreak": 1,
+      "lastActiveDate": "2026-09-19"
+    },
+    "topicsState": {},
+    "notes": [
+      {
+        "id": "note_init_bishnudev",
+        "subject": "Hematology and Blood Banking",
+        "topic": "Hemoglobin Estimation (Sahli’s & Cyanmethemoglobin Methods)",
+        "title": "Sahli vs Cyanmethemoglobin",
+        "content": "Sahli's method converts Hb to acid hematin using N/10 HCl (read at 10 mins). Cyanmethemoglobin method uses Drabkin's reagent at 540 nm (reference gold standard).",
+        "date": "2026-09-19"
+      }
+    ],
+    "unlockedBadgeIds": [
+      "first_topic"
+    ],
+    "lastUpdated": "2026-09-19T04:24:10.654Z"
+  },
+  "alok": {
+    "studentId": "alok",
+    "name": "Alok Paramanik",
+    "xp": 0,
+    "completedTopics": [],
+    "streak": {
+      "currentStreak": 1,
+      "bestStreak": 1,
+      "lastActiveDate": "2026-09-19"
+    },
+    "topicsState": {},
+    "notes": [
+      {
+        "id": "note_init_alok",
+        "subject": "Hematology and Blood Banking",
+        "topic": "Hemoglobin Estimation (Sahli’s & Cyanmethemoglobin Methods)",
+        "title": "Sahli vs Cyanmethemoglobin",
+        "content": "Sahli's method converts Hb to acid hematin using N/10 HCl (read at 10 mins). Cyanmethemoglobin method uses Drabkin's reagent at 540 nm (reference gold standard).",
+        "date": "2026-09-19"
+      }
+    ],
+    "unlockedBadgeIds": [
+      "first_topic"
+    ],
+    "lastUpdated": "2026-09-19T04:24:10.654Z"
+  }
+}

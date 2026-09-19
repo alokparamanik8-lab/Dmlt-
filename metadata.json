@@ -1,0 +1,6 @@
+{
+  "name": "DMLT STUDY HUB",
+  "description": "Your personal DMLT 1st Year study companion. Learn • Practice • Complete • Improve",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
